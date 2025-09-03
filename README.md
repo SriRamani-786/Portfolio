@@ -1,4 +1,4 @@
-# Bhaskar Manideep Batthula - Personal Portfolio
+# Sri Ramani Devi - Personal Portfolio
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript showcasing my skills, experience, and projects.
 
@@ -215,3 +215,4 @@ Potential improvements you could add:
 **Happy coding! 🎉**
 
 Your portfolio is now ready to showcase your skills and impress potential employers or clients!
+
